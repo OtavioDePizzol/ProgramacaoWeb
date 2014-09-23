@@ -1,0 +1,61 @@
+<html>
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=UTF8">
+		<title>
+			Fatores Ambientais
+		</title>
+		<style>
+			header{
+				background-color:green;
+				color:white;
+				text-align:center;
+				padding:10px;
+			}
+			nav{
+				line-height:25px;
+				background-color:#47A347;
+				height:500px;
+				width:100px;
+				float:left;
+				padding:10px;
+			}
+			section{
+				height:500px;
+				float:center;
+				padding:10px;
+				text-align:center;
+			}
+			footer{
+				background-color:green;
+				color:white;
+				clear:both;
+				text-align:center;
+				padding:10px;
+			}
+		</style>
+	</head>
+	<body>
+		<a name="inicio"></a>
+		<a name="topo"></a>
+		<header>
+			<h1>Fatores Ambientais</h1>
+		</header>
+		
+		<nav>
+			<a href="pagina1.html">Item 1</a><br>
+			<a href="pagina2.html">Item 2</a><br>
+			<a href="pagina3.html">Item 3</a><br>
+			<a href="pagina4.html">Item 4</a><br>
+			<a href="pagina5.html">Item 5</a><br>
+		</nav>
+		
+		<section>
+			<h3>Página Inicial</h3>
+			<p>conteúdo...</p>
+		</section>
+		
+		<footer>
+			<center><a href="#topo">topo</a></center>
+		</footer>
+	</body>
+</html>
